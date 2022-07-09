@@ -1,4 +1,4 @@
-#!/usr/bin/env python  
+#!/usr/bin/env python  1
 # -*- coding: utf-8 -*- # 기본 인코딩이 utf-8 이라고 알려주는 것과 동일하며 코드에 한글이 포함되어 있어도 문제없이 잘 실행됨 
 import rospy, rospkg, time #　ros node와 ros 패키지에 대한 정보를 쿼리하기 위한 유틸리티, time 모듈를 사용하기 위함
 import numpy as np # numpy 라이브러리를 사용하기 위함, numpy라이브러리을 np로 지정함
